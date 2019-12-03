@@ -11,4 +11,4 @@
 
 ### Live demo
 
-- [ ] [google-homepage](https://alina-domnich.github.io/Rock-Paper-Scissors/)
+- [ ] [google-homepage](https://alina-domnich.github.io/google-homepage/)
